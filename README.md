@@ -1,5 +1,7 @@
 # IOS_Codebases - Repository for iOS Development Study Notes and Codebases
 
+<br/>
+
 Welcome to IOS_Codebases! This repository is dedicated to collecting study notes and codebases related to iOS development.
 
 <br/>
@@ -12,6 +14,8 @@ IOS_Codebases에 오신 것을 환영합니다! 이 저장소는 iOS 개발 공�
 
 ## Swift Syntax
 
+<br/>
+
 Master Swift syntax with in-depth content covering over 95% of Swift's official specs. Acquire advanced Swift knowledge, emphasizing intuitive understanding and practical application.
 
 <br/>
@@ -23,6 +27,8 @@ Swift 문법을 깊이 있는 내용으로 다루며, Swift의 공식 사양 중
 ---
 
 ## Upcoming Project - Todo List App
+
+<br/>
 
 I will create a sophisticated Todo List app, applying the knowledge I've gained. <br/>This project will showcase my abilities in Swift, app architecture, networking, and data management.
 
