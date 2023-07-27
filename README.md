@@ -1,7 +1,5 @@
 # IOS_Codebases - Repository for iOS Development Study Notes and Codebases
 
-## iOS 개발 공부 노트와 코드베이스 저장소
-
 Welcome to IOS_Codebases! This repository is dedicated to collecting study notes and codebases related to iOS development.
 
 <br/>
