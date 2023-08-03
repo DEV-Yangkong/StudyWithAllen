@@ -24,8 +24,8 @@ IOS_Codebases에 오신 것을 환영합니다! 이 저장소는 iOS 개발 공�
 | ✅    | -               | Understanding Memory Storage (Lecture 3)                                                                   |
 | ✅    | -               | Representing Negative Numbers in Memory (Lecture 4)                                                        |
 | -     | 4               | Preparing for the Actual Class                                                                             |
-|       | -               | Downloading Code Materials for the Class ⭐️⭐️⭐️                                                         |
-|       | -               | Playground Usage and Configuration Guide (Lecture 5)                                                       |
+| ✅      | -               | Downloading Code Materials for the Class ⭐️⭐️⭐️                                                         |
+| ✅      | -               | Playground Usage and Configuration Guide (Lecture 5)                                                       |
 |       | -               | Meaning of Equality and print in Programming (Lecture 6)                                                   |
 |       | -               | Learning Special Characters on the Keyboard (Lecture 7)                                                    |
 | -     | 5               | Part 1 - Variables and Constants / Data Types (The Basics)                                                 |
