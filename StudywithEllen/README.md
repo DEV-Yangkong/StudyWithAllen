@@ -18,12 +18,12 @@
 | -     | 4               | Preparing for the Actual Class                                                                             |
 | ✅    | -               | Downloading Code Materials for the Class ⭐️⭐️⭐️                                                         |
 | ✅    | -               | Playground Usage and Configuration Guide (Lecture 5)                                                       |
-| ✅      | -               | Meaning of Equality and print in Programming (Lecture 6)                                                   |
-| ✅      | -               | Learning Special Characters on the Keyboard (Lecture 7)                                                    |
+|       | -               | Meaning of Equality and print in Programming (Lecture 6)                                                   |
+|       | -               | Learning Special Characters on the Keyboard (Lecture 7)                                                    |
 | -     | 5               | Part 1 - Variables and Constants / Data Types (The Basics)                                                 |
-| ✅      | -               | Variables and Constants (Lecture 8)                                                                        |
-| ✅      | -               | Summary of Variables and Constants (Lecture 8-1)                                                           |
-| ✅      | -               | Swift Data Types (Lecture 9)                                                                               |
+|       | -               | Variables and Constants (Lecture 8)                                                                        |
+|       | -               | Summary of Variables and Constants (Lecture 8-1)                                                           |
+|       | -               | Swift Data Types (Lecture 9)                                                                               |
 |       | -               | Type Annotations / Type Inference / Type Safety / Type Conversion (Lecture 10)                             |
 |       | -               | Type Alias / Warnings and Errors (Lecture 11)                                                              |
 |       | -               | Summary of Programming Terms (Lecture 12)                                                                  |
