@@ -8,270 +8,271 @@
 
 <br/>
 
-| Check | Lecture Section | Title                                                                                                      |
-| ----- | --------------- | ---------------------------------------------------------------------------------------------------------- |
-| -     | 3               | CS 101                                                                                                     |
-| ✅    | -               | `(Lecture 1)` Computer Operation Principle - Basic Structure and Operation of Computers                    |
-| ✅    | -               | `(Lecture 2)` CPU and Memory (RAM) Operation, Programming Languages                                        |
-| ✅    | -               | `(Lecture 3)` Understanding Memory Storage                                                                 |
-| ✅    | -               | `(Lecture 4) ` Representing Negative Numbers in Memory                                                     |
-| -     | 4               | Preparing for the Actual Class                                                                             |
-| ✅    | -               | Downloading Code Materials for the Class ⭐️⭐️⭐️                                                         |
-| ✅    | -               | `(Lecture 5)` Playground Usage and Configuration Guide                                                     |
-|       | -               | Meaning of Equality and print in Programming (Lecture 6)                                                   |
-|       | -               | Learning Special Characters on the Keyboard (Lecture 7)                                                    |
-| -     | 5               | Part 1 - Variables and Constants / Data Types (The Basics)                                                 |
-|       | -               | Variables and Constants (Lecture 8)                                                                        |
-|       | -               | Summary of Variables and Constants (Lecture 8-1)                                                           |
-|       | -               | Swift Data Types (Lecture 9)                                                                               |
-|       | -               | Type Annotations / Type Inference / Type Safety / Type Conversion (Lecture 10)                             |
-|       | -               | Type Alias / Warnings and Errors (Lecture 11)                                                              |
-|       | -               | Summary of Programming Terms (Lecture 12)                                                                  |
-|       | 6               | Part 2 - Basic Operators                                                                                   |
-|       | -               | Basic Operators (Lecture 13)                                                                               |
-|       | -               | Compound Assignment / Comparison / Logical Operators / Operator Precedence / Access Operators (Lecture 14) |
-| -     | 7               | Part 3 - Basics of Programming and Conditionals (Control Flow)                                             |
-|       | -               | Basics of Programming and if Statement (Lecture 15)                                                        |
-|       | -               | Conditional Statements (switch Statement) (Lecture 16)                                                     |
-|       | -               | Utilizing switch Statement (Lecture 17)                                                                    |
-|       | -               | Practice Problems / Creating Rock-Paper-Scissors Game / Creating Random Bingo Game (Lecture 18)            |
-| -     | 8               | Part 4 - Tuple                                                                                             |
-|       | -               | Basics of Tuples (Lecture 19)                                                                              |
-|       | -               | Utilizing Tuples (Lecture 20)                                                                              |
-| -     | 9               | Part 5 - Ternary Operator and Range Operator                                                               |
-|       | -               | Ternary Operator (Lecture 21)                                                                              |
-|       | -               | Range Operator / Pattern Matching Operator (Lecture 22)                                                    |
-| -     | 10              | Part 6 - Loops                                                                                             |
-|       | -               | Loops (for Loop) (Lecture 23)                                                                              |
-|       | -               | Notes on Using for Loops (Lecture 24)                                                                      |
-|       | -               | while Loop / repeat-while Loop (Lecture 25)                                                                |
-|       | -               | Loop Control Transfer Statements (continue / break) (Lecture 26)                                           |
-|       | -               | Practice Problems - Multiplication Table / Multiples / Output with Logical Composition (Lecture 27)        |
-| -     | 11              | Part 7 - Functions                                                                                         |
-|       | -               | Basics of Functions (Lecture 28)                                                                           |
-|       | -               | Application of Functions (Lecture 29)                                                                      |
-|       | -               | Notes on Using Functions (Lecture 30)                                                                      |
-|       | -               | Function Notation (Referencing) / Function Type Notation (Lecture 31)                                      |
-|       | -               | Function Overloading (Lecture 32)                                                                          |
-|       | -               | Understanding Scope (Lecture 33)                                                                           |
-|       | -               | Summary of Control Transfer Statements (Lecture 34)                                                        |
-|       | -               | Function Execution Memory Structure - Part 1 (Lecture 35)                                                  |
-|       | -               | Function Execution Memory Structure - Part 2 (Lecture 36)                                                  |
-|       | -               | CPU Structure for Conditional and Loop Statements (Lecture 37)                                             |
-|       | -               | Inout Parameters (Lecture 38)                                                                              |
-|       | -               | guard Statement (Lecture 39)                                                                               |
-|       | -               | Return Value of Functions and discardableResult (Lecture 40)                                               |
-|       | -               | Reasons for Using Tuples - Relating to Functions (Lecture 40-1)                                            |
-|       | -               | Practice Problems - Random Selection from Strings / Prime Number Check (Lecture 41)                        |
-|       | -               | Practice Problems - Creating a Factorial Function / Memory Structure of Recursive Functions (Lecture 42)   |
-|       | -               | Understanding print Function / Understanding APIs (Lecture 42-1)                                           |
-| -     | 12              | Part 8 - Optional                                                                                          |
-|       | -               | Basics of Optional Type (Lecture 43)                                                                       |
-|       | -               | Extracting Optional Values (Lecture 44)                                                                    |
-|       | -               | Practice - Optional Binding Practice (Lecture 44-1)                                                        |
-|       | -               | Practice - Optional Binding Practice (using guard) (Lecture 44-2)                                          |
-|       | -               | Application of Optional Type (Lecture 45)                                                                  |
-| -     | 13              | Part 9 - Collection                                                                                        |
-|       | -               | Basics of Swift Collection / Arrays (Lecture 46)                                                           |
-|       | -               | Handling Arrays (Lecture 47)                                                                               |
-|       | -               | Miscellaneous on Arrays (Lecture 48)                                                                       |
-|       | -               | Dictionary / Hashable (Lecture 49)                                                                         |
-|       | -               | Handling Dictionaries (Lecture 50)                                                                         |
-|       | -               | Set (Lecture 51)                                                                                           |
-|       | -               | Theory on Swift Collections (Lecture 52)                                                                   |
-| -     | 14              | Part 10 - Enumeration                                                                                      |
-|       | -               | Basics of Enumeration (Lecture 53)                                                                         |
-|       | -               | Raw Values and Associated Values of Enumeration (Lecture 54)                                               |
-|       | -               | Accurate Understanding of Optional Types (Lecture 55) - Refer to Optional Part                             |
-|       | -               | Utilizing Enumeration and switch Statement (Lecture 56)                                                    |
-|       | -               | Enumeration with Associated Values (Lecture 57)                                                            |
-|       | -               | Optional Pattern (Lecture 58)                                                                              |
-|       | -               | 'unknown' Keyword in Enumeration (Lecture 59)                                                              |
-| -     | 15              | Introduction to App Development (Creating 5 Apps)                                                          |
-|       | -               | Downloading App Development Materials                                                                      |
-|       | -               | Overview of App Development (What Apps You Will Create) (Lecture 64)                                       |
-|       | -               | App Development / Main Buttons / Introduction to Screens (Lecture 65)                                      |
-|       | -               | (App 1: Basics) App Development / Creating Screens / Setting Up Auto Layout (Lecture 66)                   |
-|       | -               | (App 1: Basics) App Development / Setting Up Code (Lecture 67)                                             |
-|       | -               | (App 1: Basics) App Development / Detailed Explanation of Code (Lecture 68)                                |
-|       | -               | (App 1: Basics) App Development / Additional Notes (Lecture 69)                                            |
-|       | -               | iOS Architecture / Framework (Lecture 70)                                                                  |
-|       | -               | (App 2: Dice) App Development / Creating Screens / Setting Up Auto Layout (Lecture 71)                     |
-|       | -               | (App 2: Dice) App Development / Setting Up Code (Lecture 72)                                               |
-|       | -               | (App 3: Rock-Paper-Scissors) App Development / Creating Screens / Setting Up Auto Layout (Lecture 73)      |
-|       | -               | (App 3: Rock-Paper-Scissors) App Development / Setting Up Code - Part 1 (Lecture 74)                       |
-|       | -               | (App 3: Rock-Paper-Scissors) App Development / Setting Up Code - Part 2 (Lecture 75)                       |
-|       | -               | (App 3: Rock-Paper-Scissors) App Development / Detailed Explanation of Code (Lecture 76)                   |
-|       | -               | (App 4: Up and Down) Creating a Mac App / Mac App Description / main Function (Lecture 77)                 |
-|       | -               | (App 4: Up and Down) Creating a Mac App / Setting Up Code (Lecture 78)                                     |
-|       | -               | (App 5: Up and Down App) App Development / What App Will Be Created (Lecture 79)                           |
-|       | -               | (App 5: Up and Down App) App Development / Creating Screens / Setting Up Auto Layout (Lecture 80)          |
-|       | -               | (App 5: Up and Down App) App Development / Designing the Logic (Lecture 81)                                |
-|       | -               | (App 5: Up and Down App) App Development / Setting Up Code (Lecture 82)                                    |
-|       | -               | (App 5: Up and Down App) App Development / Detailed Explanation of Code (Lecture 83)                       |
-| -     | 16              | Preparing for the Second Half                                                                              |
-|       | -               | Swift Types / Overview of the Second Half (Lecture 84)                                                     |
-| -     | 17              | Part 11 - Classes and Structs                                                                              |
-|       | -               | [Frequently Asked Questions - Unit by Unit]                                                                |
-|       | -               | Understanding Classes and Structs (Lecture 85)                                                             |
-| -     | 18              | Part 11-1 - Properties and Methods                                                                         |
-|       | -               | Properties and Methods (Lecture 90)                                                                        |
-|       | -               | Stored Properties (Lecture 91)                                                                             |
-|       | -               | Lazy Stored Properties (Lecture 92)                                                                        |
-|       | -               | Review of Functions Before Discussing Computed Properties (Lecture 93)                                     |
-|       | -               | Computed Properties (Lecture 95)                                                                           |
-|       | -               | Understanding Computed Properties / Memory Structure (Lecture 96)                                          |
-|       | -               | Type Properties (Lecture 97)                                                                               |
-|       | -               | Computed Type Properties (Lecture 98)                                                                      |
-|       | -               | Property Observers (Lecture 99)                                                                            |
-|       | -               | Instance Methods (Lecture 100)                                                                             |
-|       | -               | Type Methods (Lecture 101)                                                                                 |
-|       | -               | Subscripts (Lecture 102)                                                                                   |
-|       | -               | Access Control / Singleton Pattern (Lecture 103)                                                           |
-| -     | 19              | Part 12 - Inheritance and Initialization                                                                   |
-|       | -               | Basics of Inheritance (Lecture 104)                                                                        |
-|       | -               | Inheritance and Overriding (Lecture 105)                                                                   |
-|       | -               | Understanding Memory Structure through Initialization (Lecture 106)                                        |
-|       | -               | Initialization Process and Constructors (Lecture 107)                                                      |
-|       | -               | Constructors (Lecture 108)                                                                                 |
-|       | -               | Designated Initializers / Convenience Initializers (Lecture 109)                                           |
-|       | -               | Rules for Inheriting Designated and Convenience Initializers (Lecture 110)                                 |
-|       | -               | Exceptions to Inheriting Designated and Convenience Initializers (Lecture 111)                             |
-|       | -               | [Temporary Lecture] Understanding Designated and Convenience Initializers (Lecture 111-1)                  |
-|       | -               | Required Initializers (Lecture 112)                                                                        |
-|       | -               | Failable Initializers (Lecture 113)                                                                        |
-|       | -               | Deinitializer / Comparing Classes and Structs (Lecture 114)                                                |
-| -     | 20              | Part 13 - Type Casting                                                                                     |
-|       | -               | is Operator (Lecture 115)                                                                                  |
-|       | -               | as Operator / Understanding the Exact Meaning of Downcasting (Lecture 116)                                 |
-|       | -               | Inheritance and Polymorphism (Lecture 117)                                                                 |
-|       | -               | Type Casting for Any and AnyObject (Lecture 118)                                                           |
-| -     | 21              | Part 14 - Extensions                                                                                       |
-|       | -               | Concept of Extensions (Lecture 119)                                                                        |
-|       | -               | Extendable Members (Properties and Methods) (Lecture 120)                                                  |
-|       | -               | Extending Members (Methods) (Lecture 121)                                                                  |
-|       | -               | Extending Initializers (Lecture 122)                                                                       |
-|       | -               | [Temporary Lecture] Extending Initializers - Structures                                                    |
-|       | -               | Extending Members (Subscripts) (Lecture 123)                                                               |
-|       | -               | Extending Members (Nested Types) (Lecture 124)                                                             |
-| -     | 22              | Part 15 - Protocols                                                                                        |
-|       | -               | Concept of Protocols (Lecture 125)                                                                         |
-|       | -               | Protocol Syntax (Lecture 126)                                                                              |
-|       | -               | Defining Method Requirements (Lecture 127)                                                                 |
-|       | -               | Requirements for Initializers (Lecture 128)                                                                |
-|       | -               | Subscript Requirements (Lecture 129)                                                                       |
-|       | -               | Protocols as Types (Lecture 130)                                                                           |
-|       | -               | Inheriting Protocols (Lecture 131)                                                                         |
-|       | -               | Implementing Optional Requirements of Protocols (Lecture 132)                                              |
-|       | -               | Extending Protocols (Lecture 133)                                                                          |
-|       | -               | Protocol-Oriented Programming (Lecture 134)                                                                |
-|       | -               | Limitations of Protocol Extension (Lecture 135)                                                            |
-| -     | 23              | Part 16 - Method Dispatch                                                                                  |
-|       | -               | Method Dispatch - 1 (Lecture 136)                                                                          |
-|       | -               | Method Dispatch - 2 (Lecture 137)                                                                          |
-| -     | 24              | Part 17 - Nested Types                                                                                     |
-|       | -               | Nested Types (Lecture 138)                                                                                 |
-|       | -               | Nested Types (Lecture 139)                                                                                 |
-|       | -               | Nested Types (Lecture 140)                                                                                 |
-| -     | 25              | Part 17-1 - Self Keyword                                                                                   |
-|       | -               | self VS Self Comparison (Lecture 141)                                                                      |
-| -     | 26              | Part 18 - Closures                                                                                         |
-|       | -               | Concept of Closures and First-class Citizen (Lecture 142)                                                  |
-|       | -               | Forms of Closures (Lecture 143)                                                                            |
-|       | -               | Reasons for Using Closures (Lecture 144)                                                                   |
-|       | -               | Reasons for Using Closures - 2 (Lecture 145)                                                               |
-|       | -               | Optimization of Closure Syntax (Lecture 146)                                                               |
-|       | -               | Practical Examples of Using Closures (Lecture 147)                                                         |
-|       | -               | Memory Structure of Closures (Lecture 148)                                                                 |
-|       | -               | Escaping / Autoclosure Keyword (Lecture 149)                                                               |
-|       | -               | Reference: Usage of Closures (Lecture 149-1)                                                               |
-| -     | 27              | Part 18-1 - Higher-order Functions                                                                         |
-|       | -               | Higher-order Functions - map (Lecture 150)                                                                 |
-|       | -               | Higher-order Functions - filter / reduce (Lecture 151)                                                     |
-|       | -               | Higher-order Functions - forEach / compactMap / flatMap (Lecture 152)                                      |
-| -     | 28              | Part 18-2 - Functional Programming                                                                         |
-|       | -               | Swift's Programming Paradigm and Functional Programming (Lecture 153)                                      |
-|       | -               | Application of Optionals - Optional Types (Lecture 154)                                                    |
-| -     | 29              | Part 19 - Memory Management (ARC)                                                                          |
-|       | -               | Understanding Swift's Memory Management Model (Lecture 155)                                                |
-|       | -               | ARC Model (Lecture 156)                                                                                    |
-|       | -               | Strong Reference Cycles and Memory Leaks (Lecture 157)                                                     |
-|       | -               | Closures and Memory Management (Lecture 158)                                                               |
-|       | -               | Reference Capture and Capture Lists (Lecture 159)                                                          |
-|       | -               | Normal Use of Closures (Within Objects and self Keyword) (Lecture 160)                                     |
-|       | -               | Examples of Memory Leaks (Lecture 161)                                                                     |
-|       | -               | Strong Reference Cycles and Memory Leaks (Lecture 162)                                                     |
-| -     | 30              | Part 20 - Error Handling                                                                                   |
-|       | -               | Concept of Error Handling Syntax (Lecture 163)                                                             |
-|       | -               | Error Handling Techniques (Lecture 164)                                                                    |
-|       | -               | Handling Functions That Throw Errors (Lecture 165)                                                         |
-|       | -               | Defer Statement (Lecture 166)                                                                              |
-| -     | 31              | Part 20-1 - Networking                                                                                     |
-|       | -               | Understanding Network Communication (Lecture 167)                                                          |
-|       | -               | HTTP Protocol (Lecture 168)                                                                                |
-|       | -               | Networking in iOS (Lecture 169)                                                                            |
-|       | -               | URLSession (Lecture 170)                                                                                   |
-|       | -               | JSON Parsing (Lecture 171)                                                                                 |
-|       | -               | Examples of Network Communication (Lecture 172)                                                            |
-| -     | 32              | Part 20-2 - Understanding Asynchronous Programming                                                         |
-|       | -               | Concurrency Programming / Warming Up (Lecture 173)                                                         |
-|       | -               | Concept of Concurrency (Lecture 173)                                                                       |
-|       | -               | Synchronous and Asynchronous Concepts (Lecture 174)                                                        |
-|       | -               | Concepts of Serial and Concurrent (Lecture 175)                                                            |
-|       | -               | Concepts and Types of GCD (Lecture 176)                                                                    |
-|       | -               | Caution When Using GCD (Lecture 177)                                                                       |
-|       | -               | (Legacy Code) Explanation of URLSession Code (Lecture 178)                                                 |
-|       | -               | Caution When Using GCD (Weak/Strong Capture Caution) (Lecture 179)                                         |
-|       | -               | Introduction of Async/await / After Swift 5.5 (Lecture 180)                                                |
-|       | -               | Memory Structure in Concurrency Programming / Problems in Concurrency Programming (Lecture 181)            |
-|       | -               | Solutions to Problems in Concurrency Programming (Lecture 182)                                             |
-| -     | 33              | Part 21 - Generics                                                                                         |
-|       | -               | Necessity of Generics Syntax (Lecture 183)                                                                 |
-|       | -               | Defining Generic Types (Lecture 184)                                                                       |
-|       | -               | Usage of Generic Syntax in Protocols (Lecture 185)                                                         |
-| -     | 34              | Part 22 - Result Type                                                                                      |
-|       | -               | Understanding Result Type (Lecture 186)                                                                    |
-|       | -               | Result Type in Networking Code (Lecture 187)                                                               |
-| -     | 35              | Part 22-1 - Handling Dates and Times in Swift                                                              |
-|       | -               | Handling Dates and Times / Understanding Date Structure (Lecture 188)                                      |
-|       | -               | Understanding Calendar Structure (Lecture 189)                                                             |
-|       | -               | Understanding DateFormatter (Lecture 190)                                                                  |
-|       | -               | Practical Use of Dates in Projects (Lecture 191)                                                           |
-| -     | 36              | Part 23 - Access Control                                                                                   |
-|       | -               | Understanding the Basics of Access Control (Lecture 192)                                                   |
-|       | -               | Access Control in Custom Types (Lecture 193)                                                               |
-|       | -               | Access Control in Inheritance and Extensions (Lecture 194)                                                 |
-| -     | 37              | Part 24 - Strings and Characters                                                                           |
-|       | -               | ASCII Code and Unicode (Lecture 195)                                                                       |
-|       | -               | Basics of Strings (Lecture 196)                                                                            |
-|       | -               | String Interpolation (Lecture 197)                                                                         |
-|       | -               | String Conversion - Converting Numeric Types to Strings (Lecture 198)                                      |
-|       | -               | Understanding Swift Strings - Substrings (Lecture 199)                                                     |
-|       | -               | Manipulating Strings / String Indices (Lecture 200)                                                        |
-|       | -               | Manipulating Strings / Subscript / String Indices (Lecture 201)                                            |
-|       | -               | Manipulating Strings / Insertion Replacement Addition Deletion (Lecture 202)                               |
-|       | -               | Comparing Strings / Comparison Options (Lecture 203)                                                       |
-|       | -               | Manipulating Strings / Summary (Lecture 204)                                                               |
-|       | -               | Other String Manipulation / Regular Expressions (Lecture 205)                                              |
-|       | -               | Removing Specific Characters (Search and) (Lecture 206)                                                    |
-| -     | 38              | Part 25 - Advanced Operators                                                                               |
-|       | -               | Swift's Integer Types / Numeric Literals (Lecture 207)                                                     |
-|       | -               | Concept of Overflow and Overflow Operators (Lecture 208)                                                   |
-|       | -               | Logical Operators and Short-circuit Evaluation (Lecture 209)                                               |
-|       | -               | Bitwise Operators (Lecture 210)                                                                            |
-|       | -               | Direct Implementation of Operator Methods (Lecture 211)                                                    |
-|       | -               | Implementation of User-defined Operators (Lecture 212)                                                     |
-| -     | 39              | Part 26 - Memory Safety                                                                                    |
-|       | -               | Concept and Understanding of Memory Safety (Lecture 213)                                                   |
-| -     | 40              | Part 27 - Advanced Topics                                                                                  |
-|       | -               | Key Protocols - Equatable (Lecture 214)                                                                    |
-|       | -               | Key Protocols - Comparable (Lecture 215)                                                                   |
-|       | -               | Key Protocols - Hashable (Lecture 216)                                                                     |
-|       | -               | CaseIterable Protocol (Lecture 217)                                                                        |
-|       | -               | Never Type and Assertion Functions (Lecture 218)                                                           |
-|       | -               | Key Path and Selector - Key Path (Lecture 219)                                                             |
-|       | -               | Key Path and Selector - Selector (Lecture 219-1)                                                           |
-|       | -               | Meta Types (Lecture 220)                                                                                   |
-|       | -               | available Keyword (Lecture 221)                                                                            |
-| -     | 41              | App Development Projects (Creating 10 Apps)                                                                |
-|       | -               | 5 Basic Apps + 10 Advanced Apps - Total 15 Apps (100% Uploaded)                                            |
+| 강의 체크 | 강의 섹션 | 제목                                                                 |
+| --------- | --------- | -------------------------------------------------------------------- |
+|           | 3         | CS 101                                                               |
+|           | -         | 컴퓨터의 동작원리 - 컴퓨터의 기본 구조와 동작 (1강)                  |
+|           | -         | CPU와 메모리(RAM)의 동작, 프로그래밍 언어 (2강)                      |
+|           | -         | 메모리의 저장방식에 대한 이해 (3강)                                  |
+|           | -         | 메모리에서 음수의 표현 방법 (4강)                                    |
+| -         | 4         | 본격적인 수업에 앞서 사전 준비                                       |
+|           | -         | 수업에서 사용하는 코드 자료 다운로드 ⭐️⭐️⭐️                       |
+|           | -         | 플레이그라운드 사용법 및 설정 안내 (5강)                             |
+|           | -         | 프로그래밍에서 등호의 의미와 print (6강)                             |
+|           | -         | 키보드의 특수 문자 익히기 (7강)                                      |
+| -         | 5         | Part1 - 변수와 상수 / 데이터 타입 (The Basics)                       |
+|           | -         | 변수와 상수 (8강)                                                    |
+|           | -         | 변수와 상수 정리 (8-1강)                                             |
+|           | -         | Swift의 데이터 타입 (9강)                                            |
+|           | -         | 타입 주석 / 타입 추론 / 타입 안정성 / 타입 변환 (10강)               |
+|           | -         | 타입 애일리어스(Type Alias) / 경고와 오류 (11강)                     |
+|           | -         | 프로그래밍 관련 용어 정리 (12강)                                     |
+|           | 6         | Part2 - 기본연산자(Basic Operators)                                  |
+|           | -         | 기본 연산자 (13강)                                                   |
+|           | -         | 복합할당 / 비교 / 논리 연산자 / 연산의 우선순위 / 접근 연산자 (14강) |
+| -         | 7         | Part3 - 프로그래밍의 기본 원리와 조건문 (Control Flow)               |
+|           | -         | 프로그래밍의 기본원리와 if 조건문 (15강)                             |
+|           | -         | 조건문 (switch문) (16강)                                             |
+|           | -         | switch문의 활용 (17강)                                               |
+|           | -         | 연습문제 / 가위바위보 게임 만들기 / 랜덤 빙고 게임 만들기 (18강)     |
+| -         | 8         | Part4 - 튜플(Tuple)                                                  |
+|           | -         | 튜플 기본 (19강)                                                     |
+|           | -         | 튜플의 활용 (20강)                                                   |
+| -         | 9         | Part5 - 삼항연산자와 범위연산자                                      |
+|           | -         | 삼항연산자 (21강)                                                    |
+|           | -         | 범위연산자 / 패턴매칭 연산자 (22강)                                  |
+| -         | 10        | Part6 - 반복문                                                       |
+|           | -         | 반복문 (for문) (23강)                                                |
+|           | -         | for문 사용시 주의점 (24강)                                           |
+|           | -         | while문 / repeat-while문 (25강)                                      |
+|           | -         | 반복문의 제어전송문 (continue / break) (26강)                        |
+|           | -         | 연습문제 - 구구단 / 배수 / 논리 구성해서 출력해보기 (27강)           |
+| -         | 11        | Part7 - 함수(Function)                                               |
+|           | -         | 함수의 기본 개념 (28강)                                              |
+|           | -         | 함수의 응용 (29강)                                                   |
+|           | -         | 함수 사용시 주의점 (30강)                                            |
+|           | -         | 함수의 표기법(지칭) / 함수의 타입 표기 (31강)                        |
+|           | -         | 함수의 오버로딩 (32강)                                               |
+|           | -         | 범위(Scope)에 대한 이해 (33강)                                       |
+|           | -         | 제어전송문 정리 (34강)                                               |
+|           | -         | 함수 실행의 메모리 구조 - 1 (35강)                                   |
+|           | -         | 함수 실행의 메모리 구조 - 2 (36강)                                   |
+|           | -         | 조건문과 반복문의 명령어(CPU) 구조 (37강)                            |
+|           | -         | 입출력(inout) 파라미터 (38강)                                        |
+|           | -         | guard문 (39강)                                                       |
+|           | -         | 함수의 리턴값과 discardableResult (40강)                             |
+|           | -         | 튜플을 사용하는 이유 - 함수와 연관지어서 (40-1강)                    |
+|           | -         | 연습문제 - 문자열 중에서 랜덤 뽑아내기 / 소수 판별 (41강)            |
+|           | -         | 연습문제 - 팩토리얼 함수 만들어 보기 / 재귀함수 메모리 구조 (42강)   |
+|           | -         | print함수 제대로 알기 / API에 대한 이해 (42-1강)                     |
+| -         | 12        | Part8 - 옵셔널(Optional)                                             |
+|           | -         | 옵셔널 타입의 기본 개념 (43강)                                       |
+|           | -         | 옵셔널값의 추출 방법 (44강)                                          |
+|           | -         | 연습 - 옵셔널 바인딩 연습 (44-1강)                                   |
+|           | -         | 연습 - 옵셔널 바인딩 연습(guard문) (44-2강)                          |
+|           | -         | 옵셔널 타입의 응용 (45강)                                            |
+| -         | 13        | Part9 - 컬렉션(Collection)                                           |
+|           | -         | 스위프트 컬렉션의 기본 개념 / 배열 (46강)                            |
+|           | -         | 배열 다루기 (47강)                                                   |
+|           | -         | 배열 기타 (48강)                                                     |
+|           | -         | 딕셔너리 / 해셔블(Hashable) (49강)                                   |
+|           | -         | 딕셔너리 다루기 (50강)                                               |
+|           | -         | 집합(Set) (51강)                                                     |
+|           | -         | 스위프트의 컬렉션 관련 이론 (52강)                                   |
+| -         | 14        | Part10 - 열거형(Enumeration)                                         |
+|           | -         | 열거형의 기본 개념 (53강)                                            |
+|           | -         | 열거형의 원시값과 연관값 (54강)                                      |
+|           | -         | 옵셔널 타입에 대한 정확한 이해 (55강) - 옵셔널 파트 참고             |
+|           | -         | 열거형과 switch문의 활용 (56강)                                      |
+|           | -         | 열거형에 연관값이 있는 경우 (57강)                                   |
+|           | -         | 옵셔널 패턴 (58강)                                                   |
+|           | -         | 열거형의 unknown키워드 (59강)                                        |
+| -         | 15        | 앱 만들기 기초 (5개의 앱 만들어 보기)                                |
+|           | -         | 앱만들기 수업자료 다운로드                                           |
+|           | -         | 앱 만들기 관련 개요 (어떤 앱들을 만들게 되는지) (64강)               |
+|           | -         | 앱 만들기 / 주요 버튼 / 화면 소개 (65강)                             |
+|           | -         | (앱 - 1: 기초) 앱 만들기 / 화면 / 오토레이아웃 설정하기 (66강)       |
+|           | -         | (앱 - 1: 기초) 앱 만들기 / 코드 설정하기 (67강)                      |
+|           | -         | (앱 - 1: 기초) 앱 만들기 / 코드에 대한 자세한 설명 (68강)            |
+|           | -         | (앱 - 1: 기초) 앱 만들기 / 추가적인 주의사항 설명 (69강)             |
+|           | -         | iOS Architecture / Framework (70강)                                  |
+|           | -         | (앱 - 2: 주사위) 앱 만들기 / 화면 / 오토레이아웃 설정하기 (71강)     |
+|           | -         | (앱 - 2: 주사위) 앱 만들기 / 코드 설정하기 (72강)                    |
+|           | -         | (앱 - 3: 가위바위보) 앱 만들기 / 화면 / 오토레이아웃 설정하기 (73강) |
+|           | -         | (앱 - 3: 가위바위보) 앱 만들기 / 코드 설정하기 - 1 (74강)            |
+|           | -         | (앱 - 3: 가위바위보) 앱 만들기 / 코드 설정하기 - 2 (75강)            |
+|           | -         | (앱 - 3: 가위바위보) 앱 만들기 / 코드에 대한 자세한 설명 (76강)      |
+|           | -         | (앱 - 4: 업다운) 맥앱 만들기 / 맥앱 설명 / main함수 (77강)           |
+|           | -         | (앱 - 4: 업다운) 맥앱 만들기 / 코드 설정하기 (78강)                  |
+|           | -         | (앱 - 5: 업다운앱) 앱 만들기 / 어떤 앱을 만들 것인지 (79강)          |
+|           | -         | (앱 - 5: 업다운앱) 앱 만들기 / 화면 / 오토레이아웃 설정하기 (80강)   |
+|           | -         | (앱 - 5: 업다운앱) 앱 만들기 / 논리 구성하기 (81강)                  |
+|           | -         | (앱 - 5: 업다운앱) 앱 만들기 / 코드 설정하기 (82강)                  |
+|           | -         | (앱 - 5: 업다운앱) 앱 만들기 / 코드에 대한 자세한 설명 (83강)        |
+| -         | 16        | 후반부에 들어가기에 앞서                                             |
+|           | -         | 스위프트의 타입 / 후반부 전체적인 큰 그림 (84강)                     |
+| -         | 17        | Part11 - 클래스(Class)와 구조체(Struct)                              |
+|           | -         | [자주하는 질문 모음 - 단원별]                                        |
+|           | -         | 클래스와 구조체의 이해 (85강)                                        |
+| -         | 18        | Part11-1 - 속성(Property)과 메서드(Method)                           |
+|           | -         | 속성과 메서드 (90강)                                                 |
+|           | -         | 저장 속성 (91강)                                                     |
+|           | -         | 지연 저장 속성 (Lazy) (92강)                                         |
+|           | -         | 계산 속성을 다루기 전에, 함수 복습 (93강)                            |
+|           | -         | 메서드의 메모리 구조의 이해 (94강)                                   |
+|           | -         | 계산 속성 (95강)                                                     |
+|           | -         | 계산 속성 이해하기 / 메모리 구조 (96강)                              |
+|           | -         | 타입 속성 (97강)                                                     |
+|           | -         | 계산 타입 속성 (98강)                                                |
+|           | -         | 속성 감시자 (99강)                                                   |
+|           | -         | 인스턴스 메서드 (100강)                                              |
+|           | -         | 타입 메서드 (101강)                                                  |
+|           | -         | 서브스크립트 (102강)                                                 |
+|           | -         | 접근 제어 / 싱글톤 패턴 (103강)                                      |
+| -         | 19        | Part12 - 클래스의 상속과 초기화                                      |
+|           | -         | 상속의 기본 개념 (104강)                                             |
+|           | -         | 클래스의 상속과 재정의 (105강)                                       |
+|           | -         | 메모리 구조를 통한 이해 (106강)                                      |
+|           | -         | 초기화의 과정과 생성자 (107강)                                       |
+|           | -         | 생성자 (108강)                                                       |
+|           | -         | 지정 생성자 / 편의 생성자 (109강)                                    |
+|           | -         | 지정 생성자 / 편의 생성자 상속과 재정의 규칙 (110강)                 |
+|           | -         | 지정 생성자 / 편의 생성자 상속의 예외사항 (111강)                    |
+|           | -         | [임시강의] 지정 생성자와 편의생성자의 이해 (111-1강)                 |
+|           | -         | 필수(Required) 생성자 (112강)                                        |
+|           | -         | 실패가능(Failable) 생성자 (113강)                                    |
+|           | -         | 소멸자(Deinitializer) / 클래스, 구조체의 비교 (114강)                |
+| -         | 20        | Part13 - 타입캐스팅(Type Casting)                                    |
+|           | -         | is연산자 (115강)                                                     |
+|           | -         | as연산자 / 다운캐스팅의 정확한 의미에 대한 이해 (116강)              |
+|           | -         | 상속과 다형성 (117강)                                                |
+|           | -         | Any와 AnyObject를 위한 타입 캐스팅 (118강)                           |
+| -         | 21        | Part14 - 확장(Extensions)                                            |
+|           | -         | 확장의 개념 (119강)                                                  |
+|           | -         | 확장가능 멤버 (속성과 메서드) (120강)                                |
+|           | -         | 멤버의 확장(메서드) (121강)                                          |
+|           | -         | 생성자의 확장 (122강)                                                |
+|           | -         | [임시강의] 생성자의 확장관련 - 구조체                                |
+|           | -         | 멤버의 확장(서브스크립트) (123강)                                    |
+|           | -         | 멤버의 확장(중첩타입) (124강)                                        |
+| -         | 22        | Part15 - 프로토콜(Protocols)                                         |
+|           | -         | 프로토콜의 개념 (125강)                                              |
+|           | -         | 프로토콜 문법 (126강)                                                |
+|           | -         | 메서드의 요구사항 정의하는 방법 (127강)                              |
+|           | -         | 생성자의 요구사항 (128강)                                            |
+|           | -         | 서브스크립트 요구사항 (129강)                                        |
+|           | -         | 타입으로써의 프로토콜 (130강)                                        |
+|           | -         | 프로토콜의 상속 (131강)                                              |
+|           | -         | 프로토콜의 선택적 요구사항의 구현 (132강)                            |
+|           | -         | 프로토콜의 확장 (133강)                                              |
+|           | -         | 프로토콜지향 프로그래밍 (134강)                                      |
+|           | -         | 프로토콜 확장의 적용 제한 (135강)                                    |
+| -         | 23        | Part16 - Method Dispatch(메서드 디스패치)                            |
+|           | -         | 메서드 디스패치 - 1 (136강)                                          |
+|           | -         | 메서드 디스패치 - 2 (137강)                                          |
+| -         | 24        | Part17 - 중첩 타입(Nested Types)                                     |
+|           | -         | 중첩타입 (138강)                                                     |
+|           | -         | 중첩타입 (139강)                                                     |
+|           | -         | 중첩타입 (140강)                                                     |
+| -         | 25        | Part17-1 - Self키워드                                                |
+|           | -         | self VS Self 비교 (141강)                                            |
+| -         | 26        | Part18 - 클로저(Closures)                                            |
+|           | -         | 클로저의 개념 및 1급 객체 취급의 의미 (142강)                        |
+|           | -         | 클로저의 형태 (143강)                                                |
+|           | -         | 클로저를 사용하는 이유 (144강)                                       |
+|           | -         | 클로저를 사용하는 이유 - 2 (145강)                                   |
+|           | -         | 클로저의 문법 최적화 (146강)                                         |
+|           | -         | 클로저의 실제 사용 예시 (147강)                                      |
+|           | -         | 클로저의 메모리 구조 (148강)                                         |
+|           | -         | escaping / autoclosure 키워드 (149강)                                |
+|           | -         | 참고 : 클로저의 사용법 (149 - 1강)                                   |
+| -         | 27        | Part18-1 - 고차함수(Higher-order Function)                           |
+|           | -         | 고차 함수 - map (150강)                                              |
+|           | -         | 고차 함수 - filter / reduce (151강)                                  |
+|           | -         | 고차함수 - forEach / compactMap / flatMap (152강)                    |
+| -         | 28        | Part18-2 - 함수형 프로그래밍                                         |
+|           | -         | 스위프트의 프로그래밍 패러다임과 함수형 프로그래밍 (153강)           |
+|           | -         | 옵셔널 타입의 응용 - 옵셔널 타입 (154강)                             |
+| -         | 29        | Part19 - 메모리 관리 (ARC)                                           |
+|           | -         | 스위프트의 메모리 관리 모델 (155강)                                  |
+|           | -         | ARC모델 (156강)                                                      |
+|           | -         | 강한 참조 사이클과 메모리 누수 (157강)                               |
+|           | -         | 클로저와 메모리 관리 (158강)                                         |
+|           | -         | 참조 타입 캡처와 캡처리스트 (159강)                                  |
+|           | -         | 일반적인 클로저의 사용 (객체 내에서 사용과 self키워드) (160강)       |
+|           | -         | 메모리 누수의 사례 (161강)                                           |
+|           | -         | 강한 참조 사이클과 메모리 누수 (162강)                               |
+| -         | 30        | Part20 - 에러처리(Error Handling)                                    |
+|           | -         | 에러 처리 문법 (163강)                                               |
+|           | -         | 에러 처리 방법 (164강)                                               |
+|           | -         | 에러를 던지는 함수를 처리하는 함수 (165강)                           |
+|           | -         | Defer문 (166강)                                                      |
+| -         | 31        | Part20-1 네트워킹(Networking)                                        |
+|           | -         | 네트워크 통신의 이해 (167강)                                         |
+|           | -         | HTTP프로토콜 (168강)                                                 |
+|           | -         | iOS에서의 네트워킹 (169강)                                           |
+|           | -         | URLSession (170강)                                                   |
+|           | -         | JSON Parsing (171강)                                                 |
+|           | -         | 네트워크 통신의 예시 (172강)                                         |
+| -         | 32        | Part20-2 - 비동기프로그래밍에 대한 이해                              |
+|           | -         | 동시성 프로그래밍 / 워밍 업 (173강)                                  |
+|           | -         | 동시성(Concurrency) 프로그래밍 (173강)                               |
+|           | -         | 동기 비동기의 개념 (174강)                                           |
+|           | -         | 직렬과 동시의 개념 (175강)                                           |
+|           | -         | GCD의 개념 및 종류 (176강)                                           |
+|           | -         | GCD사용시 주의해야할 사항 (177강)                                    |
+|           | -         | (예전코드) URLSession 코드 설명 (178강)                              |
+|           | -         | GCD사용시 주의해야할 사항 (weak/strong캡처 주의) (179강)             |
+|           | -         | Async/await의 도입 / 스위프트 5.5이후 (180강)                        |
+|           | -         | 동시성 프로그래밍의 메모리 구조 / 동시성 프로그래밍의 문제점 (181강) |
+|           | -         | 동시성 프로그래밍 문제점의 해결 (182강)                              |
+| -         | 33        | Part21 - 제네릭(Generics)                                            |
+|           | -         | 제네릭 문법의 필요성 (183강)                                         |
+|           | -         | 제네릭 타입의 정의 (184강)                                           |
+|           | -         | 프로토콜에서의 제네릭 문법의 사용 (185강)                            |
+| -         | 34        | Part22 - Result Type                                                 |
+|           | -         | Result타입에 대한 이해 (186강)                                       |
+|           | -         | 네트워킹 코드에서 Result타입 (187강)                                 |
+| -         | 35        | Part22-1 - 스위프트에서 날짜와 시간 다루기                           |
+|           | -         | 날짜와 시간 다루기 / Date구조체의 이해 (188강)                       |
+|           | -         | Calendar구조체의 이해 (189강)                                        |
+|           | -         | DateFormatter의 이해 (190강)                                         |
+|           | -         | 실제 프로젝트에서 활용 방식 (191강)                                  |
+| -         | 36        | Part23 - 접근제어(Access Control)                                    |
+|           | -         | 접근제어의 기본 개념에 대한 이해 (192강)                             |
+|           | -         | 커스텀 타입의 접근 제어 (193강)                                      |
+|           | -         | 상속과 확장의 접근 제어 (194강)                                      |
+| -         | 37        | Part24 - 문자열과 문자(Strings and Characters)                       |
+|           | -         | 아스키코드와 유니코드 (195강)                                        |
+|           | -         | 문자열의 기본 (196강)                                                |
+|           | -         | 문자열 보간법 (197강)                                                |
+|           | -         | 문자열화 - 숫자 등의 타입을 문자열로 변환 출력하기 (198강)           |
+|           | -         | 스위프트 문자열의 이해 - 서브스트링 (199강)                          |
+|           | -         | 문자열 다루기 / 문자열 인덱스 (200강)                                |
+|           | -         | 문자열 다루기 / 서브스크립트 / 문자열 인덱스 (201강)                 |
+|           | -         | 문자열 다루기 / 삽입 교체 추가 삭제 (202강)                          |
+|           | -         | 문자열 비교하기 / 비교 옵션 (203강)                                  |
+|           | -         | 문자열 다루기 / 정리 (204강)                                         |
+|           | -         | 기타 문자열 다루기 / 정규식 (205강)                                  |
+|           | -         | 특정 문자의 (검색 및) 제거 (206강)                                   |
+| -         | 38        | Part25 - 고급연산자(Advanced Operators)                              |
+|           | -         | 스위프트의 정수타입 / 숫자 리터럴 (207강)                            |
+|           | -         | 오버플로우의 개념과 오버플로우 연산자 (208강)                        |
+|           | -         | 논리연산자와 단락평가 (209강)                                        |
+|           | -         | 비트연산자 (210강)                                                   |
+|           | -         | 연산자 메서드의 직접 구현 (211강)                                    |
+|           | -         | 사용자 정의 연산자의 구현 (212강)                                    |
+| -         | 39        | Part26 - 메모리 안전(Memory Safety)                                  |
+|           | -         | 메모리 안전의 개념 및 이해 (213강)                                   |
+| -         | 40        | Part27 - 심화 내용(Advanced Swift)                                   |
+|           | -         | 주요 프로토콜 - Equatable (214강)                                    |
+|           | -         | 주요 프로토콜 - Comparable (215강)                                   |
+|           | -         | 주요 프로토콜 - Hashable (216강)                                     |
+|           | -         | CaseIterable 프로토콜 (217강)                                        |
+|           | -         | Never타입과 검증함수 (218강)                                         |
+|           | -         | 키패스(keyPath)와 셀렉터(selector) - 키패스 (219강)                  |
+|           | -         | 키패스(keyPath)와 셀렉터(selector) - 셀렉터 (219-1강)                |
+|           | -         | 메타 타입 (220강)                                                    |
+|           | -         | available키워드 (221강)                                              |
+| -         | 41        | 앱 만들기 활용 (10개의 앱 만들어 보기)                               |
+|           | -         | 5개(기초) + 10개(활용) - 총 15개의 앱만들기 (100% 업로드 완료)       |
