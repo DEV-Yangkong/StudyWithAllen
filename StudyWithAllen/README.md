@@ -13,11 +13,11 @@
 | -     | 3               | CS 101                                                                                                     |
 | ✅    | -               | `(Lecture 1)` Computer Operation Principle - Basic Structure and Operation of Computers                    |
 | ✅    | -               | `(Lecture 2)` CPU and Memory (RAM) Operation, Programming Languages                                        |
-| ✅    | -               | `(Lecture 3)`Understanding Memory Storage                                                                  |
-| ✅    | -               | Representing Negative Numbers in Memory (Lecture 4)                                                        |
+| ✅    | -               | `(Lecture 3)` Understanding Memory Storage                                                                 |
+| ✅    | -               | `(Lecture 4) ` Representing Negative Numbers in Memory                                                     |
 | -     | 4               | Preparing for the Actual Class                                                                             |
 | ✅    | -               | Downloading Code Materials for the Class ⭐️⭐️⭐️                                                         |
-| ✅    | -               | Playground Usage and Configuration Guide (Lecture 5)                                                       |
+| ✅    | -               | `(Lecture 5)` Playground Usage and Configuration Guide                                                     |
 |       | -               | Meaning of Equality and print in Programming (Lecture 6)                                                   |
 |       | -               | Learning Special Characters on the Keyboard (Lecture 7)                                                    |
 | -     | 5               | Part 1 - Variables and Constants / Data Types (The Basics)                                                 |
