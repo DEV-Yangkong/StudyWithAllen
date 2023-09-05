@@ -13,7 +13,7 @@
 | -     | 3               | CS 101                                                                                                     |
 | ✅    | -               | `(Lecture 1)` Computer Operation Principle - Basic Structure and Operation of Computers                    |
 | ✅    | -               | `(Lecture 2)` CPU and Memory (RAM) Operation, Programming Languages                                        |
-| ✅    | -               | Understanding Memory Storage (Lecture 3)                                                                   |
+| ✅    | -               | `(Lecture 3)`Understanding Memory Storage                                                                  |
 | ✅    | -               | Representing Negative Numbers in Memory (Lecture 4)                                                        |
 | -     | 4               | Preparing for the Actual Class                                                                             |
 | ✅    | -               | Downloading Code Materials for the Class ⭐️⭐️⭐️                                                         |
