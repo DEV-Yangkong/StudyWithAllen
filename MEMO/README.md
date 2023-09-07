@@ -159,5 +159,6 @@
   - (예) 10 <= n <= 100 🙅🏻‍♀️
   - (예) (10<=n)&&(n<=100) 🙆🏻‍♀️
 - `논리 연산자`: `!` `&&(and)` `||(or)`
-- 연산자의 우선순위
+- `연산자의 우선순위`
   <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FMyiQM%2Fbtstk48rx3G%2Fs9GCvhQIx9y1g5CjgFy880%2Fimg.png" />
+- `접근 연산자`: 하위 개념으로 접근
