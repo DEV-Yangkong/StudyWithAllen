@@ -26,7 +26,7 @@
       실행하지 않으려면, break를 반드시 입력해야함 (if문에서는 실행문을 입력안해도 괜찮지만, 스위치문에서는 필요함)
   4.  참/거짓만 판별하는 switch문은 디폴트 넣을 필요 없음.
 - `fallthrough` : 매칭된 값에 관계 없이 무조건 다음 블록 실행.(스위치문에서만 사용)
-- `...`: 범위 연산자 , `..`: 범위연산자, `~=` : 패턴매칭 연산자 (참/거짓 판별)
+- `...`: 범위 연산자(~) , `..`: 범위연산자(정수범위내), `~=` : 패턴매칭 연산자 (참/거짓 판별)
   - 1...50 ~= num 👉🏻 num이 1부터 50의 범위 내에 속한다면 true
 
 <br/>
@@ -35,3 +35,13 @@
 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FxCVQB%2Fbtstw3AqWZ1%2FkfBxAJKSLhQtfs8KEIhYH1%2Fimg.png" />
 - switch문의 패턴매칭 : 케이스를 범위로 구성할 수 있는 경우에 사용. 변수의 값이 어떤 범위에 포함되는 지를 확인하고 해당범위에 맞는 코드에 따라 실행을 한다는 의미
+- where 키워드는 조건을 확인하는 키워드이다.
+- 케이스에 조건을 구성하려면 조건절을 써줘야한다.
+- switch문의 where절 : 다른 상수(혹은 변수) 값에 바인딩 후 조건절(참/거짓)을 통해 다시 한번 조건을 확인.
+  - 바인딩 된 상수(혹은 변수)는 케이스 블럭 내부에서만 사용가능. 상수 바인딩은 주로 `where절`을 사용
+
+<br/>
+
+### 👩🏻‍💻 `(Lecture 18)` 연습문제 / 가위바위보 게임 만들기 / 랜덤 빙고 게임 만들기
+
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcH8jT5%2FbtstSjKBBUc%2FVjVW6vAkNXqhQQH6Fqe2E0%2Fimg.png" />
