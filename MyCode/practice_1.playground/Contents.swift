@@ -31,25 +31,37 @@ default:
 
 //if문 이용 👉🏻 가위바위보 로직을 간과함
 if user == computer {
-    print("무승부입니다!")
+    print("무승부 입니다!")
 }else if user == 0 {
     if computer == 1 {
         print("당신이 이겼습니다!")
     }else if computer == 2 {
-        print("당신이 졌습니다!")
+        print("당신은 졌습니다!")
     }
 }else if user == 1 {
     if computer == 0 {
-        print("당신이 졌습니다!")
+        print("당신은 졌습니다!")
     }else if computer == 2{
         print("당신이 이겼습니다!")
     }
 }else if user == 2 {
     if computer == 1 {
-        print("당신이 졌습니다!")
+        print("당신은 졌습니다!")
     }else if computer == 0 {
         print("당신이 이겼습니다!")
     }
 }
 
 
+//if문 더 간단하게 가능! 무승부 👉🏻 이겼을 때 👉🏻 졌을 때는 else 처리
+if user == computer {
+    print("무승부 입니다!")
+}else if user == 0 && computer == 1 {
+    print("당신이 이겼습니다!")
+}else if user == 1 && computer == 2 {
+    print("당신이 이겼습니다!")
+}else if user == 2 && computer == 0 {
+    print("당신이 이겼습니다!")
+}else{
+    print("당신은 졌습니다!")
+}
