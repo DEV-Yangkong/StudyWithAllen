@@ -46,6 +46,8 @@
 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcH8jT5%2FbtstSjKBBUc%2FVjVW6vAkNXqhQQH6Fqe2E0%2Fimg.png" />
 
+문제 1
+
 <br/>
 
 ```swift
@@ -117,5 +119,31 @@ if user == computer {
 }else{
     print("당신은 졌습니다!")
 }
+
+```
+
+<br/><br/>
+
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDhf8V%2FbtstTbGv0Tm%2FnTAUwQMmRRPEk51tcPln7K%2Fimg.png" />
+
+문제 2
+
+<br/>
+
+```swift
+
+import UIKit
+
+var computer:Int = Int.random(in: 1...10)
+var user:Int = 5
+
+if computer == user {
+    print("Bingo")
+} else if computer < user {
+    print("Down")
+} else if computer > user {
+    print("Up")
+}
+
 
 ```
