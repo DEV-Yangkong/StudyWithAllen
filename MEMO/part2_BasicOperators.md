@@ -4,7 +4,7 @@
 
 ### 👩🏻‍💻 `(Lecture 13)` 기본 연산자
 
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FB4sOF%2FbtstqZrgeDq%2FTNDd8L6eqWmnPUy1Ttpob1%2Fimg.png" />
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FzvAFB%2FbtsufjCeFET%2Fr29KaEV45ccm441w6veUdk%2Fimg.png" />
 
 - `Operator(연산자)` 공백 규칙 : 단항연산자는 공백없이 붙여서 사용, 이항연산자는 양쪽에 공백 한 칸씩 추가, 삼항연산자에서도 모든 사이에 공백 한 칸씩 추가
 - `삼항연산자` : a ? b : c 와 같은 형태. 스위프트에서의 삼항연산자는 이 형태만 가능.

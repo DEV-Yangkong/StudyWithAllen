@@ -33,7 +33,7 @@
 
 ### 👩🏻‍💻 `(Lecture 17)` Switch문의 활용
 
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FxCVQB%2Fbtstw3AqWZ1%2FkfBxAJKSLhQtfs8KEIhYH1%2Fimg.png" />
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FmChev%2FbtsufkA902j%2FM0vUulM3vqpIjNyLxi3cd0%2Fimg.png" />
 - switch문의 패턴매칭 : 케이스를 범위로 구성할 수 있는 경우에 사용. 변수의 값이 어떤 범위에 포함되는 지를 확인하고 해당범위에 맞는 코드에 따라 실행을 한다는 의미
 - where 키워드는 조건을 확인하는 키워드이다.
 - 케이스에 조건을 구성하려면 조건절을 써줘야한다.
